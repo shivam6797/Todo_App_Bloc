@@ -1,5 +1,5 @@
 # Todo App with BLOC & SQLite
-A powerful To-Do App built using Flutter, Cubit (State Management), and SQLite, featuring full CRUD operations, task completion updates, tab-based task filtering, and advanced category/priority filtering.
+A powerful To-Do App built using Flutter, BLOC (State Management), and SQLite, featuring full CRUD operations, task completion updates, tab-based task filtering, and advanced category/priority filtering.
 
 ✨ Features
 ✅ Task Management (CRUD)
@@ -13,7 +13,7 @@ Pending → Displays only pending tasks.
 Filter tasks based on category and priority within all three tabs.
 Reset filters with a single Reset Button to view all tasks again.
 🛠️ Tech Stack
-State Management: Cubit
+State Management: BLOC
 Database: SQLite
 UI: Flutter
 
